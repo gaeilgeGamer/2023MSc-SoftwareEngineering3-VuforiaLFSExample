@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 066329e3020fc45d5a43ab857f22fa4b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/ImageTargets/Materials/video.mat
+  uploadId: 617709

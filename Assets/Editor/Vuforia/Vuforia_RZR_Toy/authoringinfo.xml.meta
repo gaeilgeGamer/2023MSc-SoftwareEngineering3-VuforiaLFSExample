@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 31bf7002d9e14831aff372e9933aafda
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/Vuforia_RZR_Toy/authoringinfo.xml
+  uploadId: 617709

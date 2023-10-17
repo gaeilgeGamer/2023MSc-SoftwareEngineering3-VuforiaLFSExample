@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a3102d51f16474e8986f86570e9bed1f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/Scenes/3-Barcodes.unity
+  uploadId: 617709

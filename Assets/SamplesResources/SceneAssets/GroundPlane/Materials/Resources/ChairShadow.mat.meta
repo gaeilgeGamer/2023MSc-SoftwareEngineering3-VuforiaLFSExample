@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 661921c3f0b8d4143996bf418f687b61
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Materials/Resources/ChairShadow.mat
+  uploadId: 617709

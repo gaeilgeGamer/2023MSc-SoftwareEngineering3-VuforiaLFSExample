@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5dc95652cf684fa59b4a55f831a273be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/VFXCore/Materials/Transparent/Phantom.mat
+  uploadId: 617709

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 381dcb09d5029d14897e55f98031fca5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/TextMeshPro/Sprites/EmojiOne Attribution.txt
+  uploadId: 617709

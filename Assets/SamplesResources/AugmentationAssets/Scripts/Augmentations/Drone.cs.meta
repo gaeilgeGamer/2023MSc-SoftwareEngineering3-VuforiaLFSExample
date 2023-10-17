@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 152f4ff999843964eb4674719918c91a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Scripts/Augmentations/Drone.cs
+  uploadId: 617709

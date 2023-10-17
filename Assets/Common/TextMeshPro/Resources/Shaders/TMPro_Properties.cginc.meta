@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3997e2241185407d80309a82f9148466
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/TextMeshPro/Resources/Shaders/TMPro_Properties.cginc
+  uploadId: 617709

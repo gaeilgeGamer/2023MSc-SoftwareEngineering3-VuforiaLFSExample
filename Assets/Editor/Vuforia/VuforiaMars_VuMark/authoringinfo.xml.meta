@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ca7e933a0379865a2235d3c40d9662b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/VuforiaMars_VuMark/authoringinfo.xml
+  uploadId: 617709

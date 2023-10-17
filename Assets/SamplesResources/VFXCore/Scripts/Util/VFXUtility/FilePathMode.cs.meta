@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d9e367a89c1bc42d7bc0d493d238c750
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/VFXCore/Scripts/Util/VFXUtility/FilePathMode.cs
+  uploadId: 617709

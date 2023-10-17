@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 998f0e4c862a246099d6777c43f2e64e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Scripts/Navigation/SamplesMainMenu.cs
+  uploadId: 617709

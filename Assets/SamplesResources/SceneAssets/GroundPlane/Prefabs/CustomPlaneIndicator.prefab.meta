@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2878fa9276cfbf64a857b958a75345bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Prefabs/CustomPlaneIndicator.prefab
+  uploadId: 617709

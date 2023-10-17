@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3adc3d1e667484e7b9e3d16cd3020ad6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/AreaTargetSample/Data/Materials/408.mat
+  uploadId: 617709

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0205b748579554b23a6fbcfdf8aa8bb3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/ModelTargets/Materials/Lander.mat
+  uploadId: 617709

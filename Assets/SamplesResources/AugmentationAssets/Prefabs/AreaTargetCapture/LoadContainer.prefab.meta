@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97f7eedc384364128ae34c1f1f0f4358
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Prefabs/AreaTargetCapture/LoadContainer.prefab
+  uploadId: 617709

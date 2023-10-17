@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b3f7172a8df44b879cbb55aa125ae75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/ModelTargets/Materials/Circle.mat
+  uploadId: 617709

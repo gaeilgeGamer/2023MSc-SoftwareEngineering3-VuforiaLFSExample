@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 356d9770fafda4666a5b89318a156f6f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Prefabs/TitleBar.prefab
+  uploadId: 617709

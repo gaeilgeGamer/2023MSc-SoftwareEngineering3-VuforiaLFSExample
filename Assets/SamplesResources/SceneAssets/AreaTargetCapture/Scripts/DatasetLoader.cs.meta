@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 908f859f4b2544e4aaca70e33b77a57f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/AreaTargetCapture/Scripts/DatasetLoader.cs
+  uploadId: 617709

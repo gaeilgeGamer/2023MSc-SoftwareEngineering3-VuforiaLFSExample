@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dfbd6215056d44961815b77eb0e8fc08
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/AreaTargetSample/checksum.md5
+  uploadId: 617709

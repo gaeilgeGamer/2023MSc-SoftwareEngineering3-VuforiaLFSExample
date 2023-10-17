@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d899d35fb97954a15b6a56d00aac8bd7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/VFXCore/Scripts/Util/MaterialUtil.cs
+  uploadId: 617709

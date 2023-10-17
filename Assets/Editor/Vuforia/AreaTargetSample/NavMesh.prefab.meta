@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 848933ab6c5664631a60de3d02af2045
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/AreaTargetSample/NavMesh.prefab
+  uploadId: 617709

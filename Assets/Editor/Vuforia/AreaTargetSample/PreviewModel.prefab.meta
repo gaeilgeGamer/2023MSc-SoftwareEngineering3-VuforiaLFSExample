@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 476838023371e4a9e9aaf061f60270f0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/AreaTargetSample/PreviewModel.prefab
+  uploadId: 617709

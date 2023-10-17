@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 85c98bdd2e75a4f6fa8ff06ec9ab5d58
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Prefabs/SplashScreen.prefab
+  uploadId: 617709

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5307160f41714abb9298e78253ae9b0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/Scenes/3-InstantImageTargets.unity
+  uploadId: 617709

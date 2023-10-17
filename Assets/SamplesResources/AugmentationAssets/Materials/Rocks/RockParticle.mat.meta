@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03efb5e71ce3d7c49b3aa0e3c4ced157
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/Rocks/RockParticle.mat
+  uploadId: 617709

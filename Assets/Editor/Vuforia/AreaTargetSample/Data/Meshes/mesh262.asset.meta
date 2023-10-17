@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c509eb3c9b2b4e37a6fd2cbf91044e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/AreaTargetSample/Data/Meshes/mesh262.asset
+  uploadId: 617709

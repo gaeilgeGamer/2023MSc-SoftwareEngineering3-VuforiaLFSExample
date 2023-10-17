@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fade42e8bc714b018fac513c043d323b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/TextMeshPro/Resources/LineBreaking Following Characters.txt
+  uploadId: 617709

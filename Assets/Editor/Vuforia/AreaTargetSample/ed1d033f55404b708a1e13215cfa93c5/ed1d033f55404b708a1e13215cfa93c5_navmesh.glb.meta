@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 118fcc26b00e4e078fd750412fe785fb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/AreaTargetSample/ed1d033f55404b708a1e13215cfa93c5/ed1d033f55404b708a1e13215cfa93c5_navmesh.glb
+  uploadId: 617709

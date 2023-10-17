@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e76f0709e06504dc587bd8e8491c9f07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Prefabs/CustomMidAirIndicator.prefab
+  uploadId: 617709

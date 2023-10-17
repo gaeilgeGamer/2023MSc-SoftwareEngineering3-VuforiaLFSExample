@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2212c039dd5f11644b44fe8ed58b38e7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/ForPrint/VuMark/mars_vumarks_USLetter.pdf
+  uploadId: 617709

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ecd244dc750a473dba042f24576bc51
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/ModelTargets/Prefabs/CustomSessionRecorder.prefab
+  uploadId: 617709

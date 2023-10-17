@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00b7343491a944e9dbfa1069de0f93f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/Scenes/3-AreaTargets/NavMesh.asset
+  uploadId: 617709

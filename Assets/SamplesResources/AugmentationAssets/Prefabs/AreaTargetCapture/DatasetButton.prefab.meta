@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9be1187d5db64020b7c3b205c6284b7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Prefabs/AreaTargetCapture/DatasetButton.prefab
+  uploadId: 617709

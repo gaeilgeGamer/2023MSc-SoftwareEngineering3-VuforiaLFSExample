@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69ca83f08b95146d49e13a1c2374d235
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Materials/PlacementTranslation.mat
+  uploadId: 617709

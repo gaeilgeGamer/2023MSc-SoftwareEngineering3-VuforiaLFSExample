@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0efa04a18f4ac4cf585ae9ab6fcb2ea0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/MultiTargets/Materials/MultiTarget_WireframeMat.mat
+  uploadId: 617709

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3501b3c43e42cb742bee51c3354f081f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/Rocks/Rock.mat
+  uploadId: 617709

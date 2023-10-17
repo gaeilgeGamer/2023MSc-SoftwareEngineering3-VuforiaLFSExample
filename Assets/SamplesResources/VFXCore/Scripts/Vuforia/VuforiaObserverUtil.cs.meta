@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b93aa613a1944b65a0b86a1b9d4e7e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/VFXCore/Scripts/Vuforia/VuforiaObserverUtil.cs
+  uploadId: 617709

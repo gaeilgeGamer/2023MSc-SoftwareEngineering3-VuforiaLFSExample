@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0553e021432f9764d9e706486a4efc01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/Drone/DroneRotor.mat
+  uploadId: 617709

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 213272f8407684fbfb4982297aea5d07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/VFXCore/Scripts/Util/VFXUtility/TransitionMode.cs
+  uploadId: 617709

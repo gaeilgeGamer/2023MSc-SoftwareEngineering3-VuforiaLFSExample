@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66e1b57af822d433e930c310d3937a9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Models/Running.anim
+  uploadId: 617709

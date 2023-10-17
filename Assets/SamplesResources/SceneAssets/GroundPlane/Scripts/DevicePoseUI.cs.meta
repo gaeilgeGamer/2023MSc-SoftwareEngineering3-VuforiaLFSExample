@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 47bd004ddeb894945beab2b04e920196
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Scripts/DevicePoseUI.cs
+  uploadId: 617709

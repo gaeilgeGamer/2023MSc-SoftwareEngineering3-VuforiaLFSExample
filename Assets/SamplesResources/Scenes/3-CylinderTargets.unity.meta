@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b336b80db71704028995a1ea175dad4a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/Scenes/3-CylinderTargets.unity
+  uploadId: 617709

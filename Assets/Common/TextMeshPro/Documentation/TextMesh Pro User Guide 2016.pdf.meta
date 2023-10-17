@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/TextMeshPro/Documentation/TextMesh Pro User Guide 2016.pdf
+  uploadId: 617709

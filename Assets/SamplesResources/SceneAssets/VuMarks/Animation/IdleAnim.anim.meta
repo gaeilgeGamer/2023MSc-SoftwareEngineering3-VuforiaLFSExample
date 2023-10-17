@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f2484bb1ac559d4f9c0ff5d53c612b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/VuMarks/Animation/IdleAnim.anim
+  uploadId: 617709

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cc2a4f7dab81424bb840719430ee097
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/Scenes/3-AreaTargetCapture.unity
+  uploadId: 617709

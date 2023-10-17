@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d47c531e10de7d4b97e84cd0d06e58e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Animation/Drone/drone-enter.anim
+  uploadId: 617709

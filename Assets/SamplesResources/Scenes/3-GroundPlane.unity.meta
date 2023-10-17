@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb0581d54f59940a2932e9d2ccd368c6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/Scenes/3-GroundPlane.unity
+  uploadId: 617709

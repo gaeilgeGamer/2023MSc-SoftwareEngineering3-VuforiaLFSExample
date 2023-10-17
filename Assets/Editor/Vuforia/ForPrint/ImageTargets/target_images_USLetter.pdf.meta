@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e822de06b1e7abf4c9c199de2942c719
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/ForPrint/ImageTargets/target_images_USLetter.pdf
+  uploadId: 617709

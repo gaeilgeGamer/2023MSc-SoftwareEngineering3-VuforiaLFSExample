@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6450e7324438a42ca96e85d77c6bb220
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Materials/PlacementRotation.mat
+  uploadId: 617709

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5e3b9c64d95e4105b0f8c39cd4dc3bd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/Scenes/3-MultiTargets.unity
+  uploadId: 617709

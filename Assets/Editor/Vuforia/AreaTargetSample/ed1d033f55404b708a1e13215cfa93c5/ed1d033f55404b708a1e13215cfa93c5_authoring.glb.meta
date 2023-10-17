@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42ad11288f9d423eab803b56f8a8733a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/AreaTargetSample/ed1d033f55404b708a1e13215cfa93c5/ed1d033f55404b708a1e13215cfa93c5_authoring.glb
+  uploadId: 617709

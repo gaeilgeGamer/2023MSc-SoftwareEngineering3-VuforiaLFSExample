@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 232a3e4923cac4efeab5ca537596b8cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Scripts/AreaTarget/ImageValueDisplay.cs
+  uploadId: 617709

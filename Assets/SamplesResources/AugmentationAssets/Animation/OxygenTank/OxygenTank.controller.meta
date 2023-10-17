@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e771f0d86fdeba24ea85fb4d3d757330
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Animation/OxygenTank/OxygenTank.controller
+  uploadId: 617709

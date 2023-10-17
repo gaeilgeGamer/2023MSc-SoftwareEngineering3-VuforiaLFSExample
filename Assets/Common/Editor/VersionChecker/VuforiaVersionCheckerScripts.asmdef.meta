@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 672fec4c668fa47a7bdc89aea2c9479f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Editor/VersionChecker/VuforiaVersionCheckerScripts.asmdef
+  uploadId: 617709

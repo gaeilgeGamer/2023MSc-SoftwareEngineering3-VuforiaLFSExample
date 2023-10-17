@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc373d9b39a416f438ca99ae10f8d3de
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/ForPrint/MultiTarget/mars_box_USLetter.pdf
+  uploadId: 617709

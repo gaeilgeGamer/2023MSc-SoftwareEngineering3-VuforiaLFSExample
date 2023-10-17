@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71cc4622f8e0c0e48b63f6a5c9d7c598
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/Rocks/SmokeParticle.mat
+  uploadId: 617709

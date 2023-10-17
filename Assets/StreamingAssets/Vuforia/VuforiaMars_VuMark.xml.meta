@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38d2ee4d4fd9fcc24db9ec57655ce7a7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/StreamingAssets/Vuforia/VuforiaMars_VuMark.xml
+  uploadId: 617709

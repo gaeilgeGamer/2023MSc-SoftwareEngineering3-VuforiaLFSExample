@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 001e739366479204088906b66a6e3e6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Animation/OxygenTank/oxygenTank-detail-on-to-off.anim
+  uploadId: 617709

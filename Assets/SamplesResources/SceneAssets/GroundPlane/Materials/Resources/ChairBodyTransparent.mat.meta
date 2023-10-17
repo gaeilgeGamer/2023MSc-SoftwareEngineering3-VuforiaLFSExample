@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd518eb147b8043bebb23e6ea56e5f18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Materials/Resources/ChairBodyTransparent.mat
+  uploadId: 617709

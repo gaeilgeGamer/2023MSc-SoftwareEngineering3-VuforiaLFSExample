@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f952c082cb03451daed3ee968ac6c63e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/TextMeshPro/Resources/Style Sheets/Default Style Sheet.asset
+  uploadId: 617709

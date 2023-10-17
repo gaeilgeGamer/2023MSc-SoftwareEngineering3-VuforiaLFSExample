@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecae4d5ee5e7dec468a75b363977ddc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Animation/Drone/drone-scan-on.anim
+  uploadId: 617709

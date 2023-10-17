@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0e48fcb84bc54f6d87073f1ab952fe0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/VFXCore/Shaders/Transparent/Phantom.shader
+  uploadId: 617709

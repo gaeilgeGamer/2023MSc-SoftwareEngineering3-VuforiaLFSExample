@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3aa711576b324979a5871948ce2067e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Materials/MidAirIndicator.mat
+  uploadId: 617709

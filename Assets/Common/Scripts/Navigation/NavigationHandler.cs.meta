@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40d50898d8e424eea9352a64da69c7fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Scripts/Navigation/NavigationHandler.cs
+  uploadId: 617709

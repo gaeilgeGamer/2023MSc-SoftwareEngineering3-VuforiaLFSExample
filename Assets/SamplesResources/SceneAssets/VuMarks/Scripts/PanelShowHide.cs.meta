@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 18101a7c2d03ea14c834700600168039
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/VuMarks/Scripts/PanelShowHide.cs
+  uploadId: 617709

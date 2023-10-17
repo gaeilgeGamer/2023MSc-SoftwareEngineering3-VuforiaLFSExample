@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18d73867ea182d74ba98b9461389bdab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Animation/OxygenTank/oxygenTank-detail-on.anim
+  uploadId: 617709

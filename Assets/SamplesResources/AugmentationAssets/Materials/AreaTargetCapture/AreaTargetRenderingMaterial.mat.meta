@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 900a235f8dfaf44a0870f13e47a7e196
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/AreaTargetCapture/AreaTargetRenderingMaterial.mat
+  uploadId: 617709

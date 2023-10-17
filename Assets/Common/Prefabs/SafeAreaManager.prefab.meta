@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15cec325f641f463e86d3ee1a265ef13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Prefabs/SafeAreaManager.prefab
+  uploadId: 617709

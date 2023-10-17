@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc6bbecc1ece74752b4b70f9fe22d83b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/VFXCore/Materials/Transparent/PhantomEngine.mat
+  uploadId: 617709

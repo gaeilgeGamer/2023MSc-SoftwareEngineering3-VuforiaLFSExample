@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd48a5176097a4514a36a9063c3474bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Resources/StatusMessage.prefab
+  uploadId: 617709

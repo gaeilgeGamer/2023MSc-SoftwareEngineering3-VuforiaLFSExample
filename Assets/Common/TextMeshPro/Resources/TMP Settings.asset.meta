@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f5b5dff67a942289a9defa416b206f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/TextMeshPro/Resources/TMP Settings.asset
+  uploadId: 617709

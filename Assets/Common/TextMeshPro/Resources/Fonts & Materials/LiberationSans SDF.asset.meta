@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f586378b4e144a9851e7b34d9b748ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/TextMeshPro/Resources/Fonts & Materials/LiberationSans
+    SDF.asset
+  uploadId: 617709

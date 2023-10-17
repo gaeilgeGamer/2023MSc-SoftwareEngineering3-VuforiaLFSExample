@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65090b60d39188e44baa55f6244f67f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Animation/Drone/Drone.controller
+  uploadId: 617709

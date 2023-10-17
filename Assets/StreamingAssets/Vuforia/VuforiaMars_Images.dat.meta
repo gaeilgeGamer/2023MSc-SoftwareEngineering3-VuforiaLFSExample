@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8ea1fa6394e8d94893c329a44c9a340
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/StreamingAssets/Vuforia/VuforiaMars_Images.dat
+  uploadId: 617709

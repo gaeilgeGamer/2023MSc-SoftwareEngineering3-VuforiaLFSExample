@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 097348dfb2e624c599b520710c6747f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Scripts/Vuforia/LicenseKeyChecker.cs
+  uploadId: 617709

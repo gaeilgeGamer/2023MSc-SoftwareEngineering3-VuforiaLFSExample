@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0774431dc1fca4b41be21e918bb37a5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Materials/Resources/ChairFrameTransparent.mat
+  uploadId: 617709

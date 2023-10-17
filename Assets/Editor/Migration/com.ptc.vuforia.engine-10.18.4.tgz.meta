@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bdd551d38a2ac4fd5a15a2fafb902ed7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Migration/com.ptc.vuforia.engine-10.18.4.tgz
+  uploadId: 617709

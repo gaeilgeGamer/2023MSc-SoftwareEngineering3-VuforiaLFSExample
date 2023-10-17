@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a30b231a84e2b564a9488ba0f1b81084
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Editor/Vuforia/ForPrint/ModelTarget/readme_3dprint.txt
+  uploadId: 617709

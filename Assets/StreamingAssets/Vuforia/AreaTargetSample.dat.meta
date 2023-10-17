@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3199b40eba8f417fba04e89b4a96782f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/StreamingAssets/Vuforia/AreaTargetSample.dat
+  uploadId: 617709

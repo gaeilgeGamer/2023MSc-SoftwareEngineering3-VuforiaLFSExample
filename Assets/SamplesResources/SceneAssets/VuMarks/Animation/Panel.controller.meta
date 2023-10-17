@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e742cc29e35c6b441a9c7b33b5f17d5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/VuMarks/Animation/Panel.controller
+  uploadId: 617709

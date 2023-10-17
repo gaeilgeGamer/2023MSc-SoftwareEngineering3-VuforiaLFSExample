@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d2cc0983045d40f9a882f9040b738aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/AugmentationAssets/Materials/AreaTarget/WorkFlow.mat
+  uploadId: 617709

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2399c472cce2d3642a99fab177cbf2b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/SamplesResources/SceneAssets/VuMarks/Animation/ShowAnim.anim
+  uploadId: 617709

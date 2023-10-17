@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d233edb6b891ca54f802dc57043ba374
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 10.18.4
+  assetPath: Assets/Common/Scripts/CommonScripts.asmdef
+  uploadId: 617709
