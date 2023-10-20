@@ -8,7 +8,6 @@ public class UIImageTargetEvents : MonoBehaviour
     [Header("Rotation Settings")]
     [Tooltip("Speed of rotation in degrees per second.")]
     public float rotationSpeed = 45f;
-
     [Tooltip("Vector to define which axes to rotate around.")]
     public Vector3 rotationVector = new Vector3(10f, 0f, 0f);
 
@@ -19,7 +18,6 @@ public class UIImageTargetEvents : MonoBehaviour
     [Header("Sound Settings")]
     [Tooltip("Source for the audio to be played.")]
     public AudioSource sound;
-
     [Tooltip("Clip to be played when the sound button is pressed.")]
     public AudioClip song;
 
@@ -30,13 +28,8 @@ public class UIImageTargetEvents : MonoBehaviour
     [Header("Control Buttons")]
     [Tooltip("Button to toggle object rotation.")]
     public Button rotateButton;
-
     [Tooltip("Button to toggle object scaling.")]
     public Button scaleButton;
-
-    [Tooltip("Button to change the text displayed.")]
-    public Button textChangeButton;
-
     [Tooltip("Button to play or stop the sound.")]
     public Button soundButton;
 
@@ -44,60 +37,75 @@ public class UIImageTargetEvents : MonoBehaviour
     [Tooltip("The UI menu to be toggled.")]
     public GameObject uiMenu;
 
-    [Tooltip("Button to toggle the UI menu.")]
-    public Button menuToggleButton;
-
     private bool shouldRotate;
     private bool shouldScale;
     private bool shouldChangeText;
     private bool shouldPlaySound;
     private bool shouldShowMenu;
+    private bool isTextChangeRoutineRunning = false;
 
-    private void Start()
-    {
-        if (rotateButton)
-            rotateButton.onClick.AddListener(() => ToggleRotation(!shouldRotate));
+ private void Start()
+{
+    if (rotateButton)
+        rotateButton.onClick.AddListener(() => {
+            ToggleRotation(!shouldRotate);
+            ToggleTextChange();
+        });
 
-        if (scaleButton)
-            scaleButton.onClick.AddListener(() => ToggleScaling(!shouldScale));
+    if (scaleButton)
+        scaleButton.onClick.AddListener(() => {
+            ToggleScaling(!shouldScale);
+            ToggleTextChange();
+        });
 
-        if (textChangeButton)
-            textChangeButton.onClick.AddListener(() => ToggleTextChange(!shouldChangeText));
+    if (soundButton)
+        soundButton.onClick.AddListener(() => {
+            ToggleSound(!shouldPlaySound);
+            ToggleTextChange();
+        });
+}
 
-        if (soundButton)
-            soundButton.onClick.AddListener(() => ToggleSound(!shouldPlaySound));
-
-        if (menuToggleButton)
-            menuToggleButton.onClick.AddListener(() => ToggleMenu(!shouldShowMenu));
-    }
 
     private void Update()
     {
         HandleRotation();
         HandleScaling();
-        HandleSound();
-        HandleMenu();
     }
 
     public void ToggleRotation(bool status) => shouldRotate = status;
+
     public void ToggleScaling(bool status) => shouldScale = status;
-    public void ToggleTextChange(bool status)
+
+    public void ToggleTextChange()
     {
-        shouldChangeText = status;
-        if(shouldChangeText)
+        // Only toggle the text change if it's not already running
+        if (!isTextChangeRoutineRunning)
         {
-            StartCoroutine(TextChangeRoutine());
+            shouldChangeText = !shouldChangeText;
+            if (shouldChangeText)
+                StartCoroutine(TextChangeRoutine());
         }
     }
+
     public void ToggleSound(bool status)
     {
         shouldPlaySound = status;
-        HandleSound();
+        if (shouldPlaySound)
+        {
+            if (!sound.isPlaying)
+                sound.PlayOneShot(song);
+        }
+        else
+        {
+            sound.Stop();
+        }
     }
+
     public void ToggleMenu(bool status)
     {
         shouldShowMenu = status;
-        HandleMenu();
+        if (uiMenu)
+            uiMenu.SetActive(shouldShowMenu);
     }
 
     private void HandleRotation()
@@ -109,43 +117,26 @@ public class UIImageTargetEvents : MonoBehaviour
     private void HandleScaling()
     {
         if (!shouldScale) return;
-        transform.localScale += scaleChange * Time.deltaTime;
 
-        if (transform.localScale.x < 0.1f || transform.localScale.x > 1.0f ||
-            transform.localScale.y < 0.1f || transform.localScale.y > 1.0f ||
-            transform.localScale.z < 0.1f || transform.localScale.z > 1.0f)
-        {
-            scaleChange = -scaleChange;
-        }
+        Vector3 newScale = transform.localScale + scaleChange * Time.deltaTime;
+
+        if (newScale.x < 0.1f || newScale.x > 1.0f) scaleChange.x = -scaleChange.x;
+        if (newScale.y < 0.1f || newScale.y > 1.0f) scaleChange.y = -scaleChange.y;
+        if (newScale.z < 0.1f || newScale.z > 1.0f) scaleChange.z = -scaleChange.z;
+
+        transform.localScale = newScale;
     }
 
     IEnumerator TextChangeRoutine()
     {
+        isTextChangeRoutineRunning = true; // Indicate the coroutine is running
+    
         string originalText = textDisplay.text;
         textDisplay.text = "You Pressed a Button";
         yield return new WaitForSeconds(3f); // wait for 3 seconds
         textDisplay.text = originalText;
         shouldChangeText = false;
-    }
 
-    private void HandleSound()
-    {
-        if (shouldPlaySound)
-        {
-            if (!sound.isPlaying)
-            {
-                sound.PlayOneShot(song);
-            }
-            else
-            {
-                sound.Stop();
-            }
-        }
-    }
-
-    private void HandleMenu()
-    {
-        if (uiMenu)
-            uiMenu.SetActive(shouldShowMenu);
+        isTextChangeRoutineRunning = false; // Reset the flag when done
     }
 }
